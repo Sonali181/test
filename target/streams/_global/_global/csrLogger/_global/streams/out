@@ -1,0 +1,9 @@
+[debug] downloaded https://repo1.maven.org/maven2/com/h2database/h2/1.4.193/h2-1.4.193.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/h2database/h2/1.4.193/h2-1.4.193.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/h2database/h2/1.4.193/h2-1.4.193-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/h2database/h2/1.4.193/h2-1.4.193-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/agrona/agrona/1.9.0/agrona-1.9.0-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/typesafe/akka/akka-persistence-typed_2.12/2.6.15/akka-persistence-typed_2.12-2.6.15-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/typesafe/akka/akka-persistence_2.12/2.6.15/akka-persistence_2.12-2.6.15-javadoc.jar
